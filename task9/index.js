@@ -1,7 +1,4 @@
-function fixTheMeerkat(arr) {
-    var array=[]
-    array[0]=arr[2];
-    array[1]=arr[1];
-    array[2]=arr[0];
-    return array
-   }
+const FCC = "freeCodeCamp"; // Change this line
+let fact = "is cool!"; // Change this line
+fact = "is awesome!";
+console.log(FCC, fact); // Change this line
